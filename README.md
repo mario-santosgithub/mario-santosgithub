@@ -1,4 +1,9 @@
-### Hi there 👋 =^-^=
+<div align="center">
+  <p>
+  <strong> Hi there 👋 =^-^= </strong>
+ 
+  </p>
+</div>
 
 <!--
 **mario-santosgithub/mario-santosgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
