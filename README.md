@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 =^-^=
 
 <!--
 **mario-santosgithub/mario-santosgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<div align="center">
+  <a href="https://github.com/mario-santosgithub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mario-santosgithub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-santosgithub&layout=compact&langs_count=7&theme=dark"/>
+</div>
