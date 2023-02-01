@@ -1,6 +1,5 @@
 <div align="center">
   <p>
-  <strong> Hi there 👋 =^-^= </strong>
  
   </p>
 </div>
